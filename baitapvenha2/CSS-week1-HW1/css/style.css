@@ -23,9 +23,10 @@ nav img {
 
 
 main {
-  background-color: rgb(250, 250, 62);
+    background-color: rgb(250, 250, 62);
     font-size: 110%;
     padding: 20px;
+    margin: 20px 0;
 }
 
 
